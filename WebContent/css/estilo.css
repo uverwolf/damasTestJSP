@@ -1,0 +1,17 @@
+body{
+	background-color:red;
+}
+div.morado{
+	width:100px;
+	height:100px;
+	background-color: purple;
+}
+div.azul{
+	
+		width:100px;
+		height:100px;
+		background-color: blue;
+}
+div{
+	display: inline-block;
+}
